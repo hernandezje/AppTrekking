@@ -13,7 +13,7 @@ const Section4 = () => {
 
                     </div>
                 </div>
-                <div class="row featurette">
+                <div class="row featurette py-5">
                     <div class="col-md-7">
                         <h2 class="featurette-heading fw-normal lh-1">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
                         <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>

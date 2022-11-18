@@ -3,7 +3,7 @@ const FormContacto = () => {
     return (
 
         <div class="row relative max-w-xl mx-auto responsive justify-content-center my-4">
-            <div class="col-md-5">
+            <div class="col-md-10">
                 <form action="">
                     <div class="form-group my-4 text-white">
                         <label for="formNombre">Nombre Completo:</label>
@@ -25,9 +25,6 @@ const FormContacto = () => {
                     <div class="d-grid gap-2 col-6 mx-auto">
                         <button type="submit" class="btn btn-outline-success">  Enviar  </button>
                     </div>
-
-
-
                 </form>
             </div>
         </div>

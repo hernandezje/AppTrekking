@@ -36,7 +36,9 @@ const Navbar = () => {
                             </li>
                         </ul>
                         <div class="col-md-3 text-end">
-                            <button type="button" class="btn btn-outline-success me-2">Login</button>
+                            <button type="button" class="btn btn-outline-success me-2">
+                            <Link to="/login" class="nav-link active" href="#">Login</Link>    
+                            </button>
                             <button type="button" class="btn btn-success">Sign-up</button>
                         </div>
                     </div>
@@ -44,7 +46,6 @@ const Navbar = () => {
             </nav>
 
         </header>
-
 
     )
 }
