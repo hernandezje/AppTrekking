@@ -7,10 +7,14 @@ const Body = () => {
     return (
         <main className="relative w-full mx-auto px-5 sm:px-7 lg:px-9 ">
             <SectionPPL />
+            <hr class="featurette-divider text-white" />
+            <h1 className="text-white mx-5">Niveles</h1>
             <Section2 />
             <hr class="featurette-divider text-white" />
+            <h1 className="text-white mx-5">Expertos</h1>
             <Section3 />
             <hr class="featurette-divider text-white" />
+            <h1 className="text-white mx-5">Senderos</h1>
             <Section4 />
         </main>
     )

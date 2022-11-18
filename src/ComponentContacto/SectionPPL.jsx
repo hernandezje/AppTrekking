@@ -3,7 +3,7 @@ import FormContacto from "./FormContacto";
 const SectionPPL = () => {
     return (
         <div class="row relative max-w-xl mx-auto responsive justify-content-center my-4 text-white">
-            <div class="col-md-5">
+            <div class="col-md-10">
                 <div class="text-left">
                     <h4 class="text-base mb-4 font-semibold tracking-wider text-primary-light uppercase">CONTÁCTENOS</h4>
                     <h2 class="text-3xl font-extrabold tracking-tight text-text-primary sm:text-4xl">Forma parte de esta Página Web</h2>

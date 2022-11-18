@@ -1,9 +1,8 @@
 
 const Section4 = () => {
     return (
-        <div class="album py-5 text-white text-center">
+        <div class="album py-2 text-white text-center">
             <div class="container">
-
                 <div class="row featurette">
                     <div class="col-md-7 order-md-2">
                         <h2 class="featurette-heading fw-normal lh-1">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
